@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "DiscAutoShield.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Disc Auto Shield
 Automatically engages the shield pack when shooting disclauncher.
 
